@@ -1,0 +1,7 @@
+# LexActivator.lib file is only required in case you are using C/C++.
+
+# LexActivator.dll has a dependency on VS2015 runtime.
+
+You can install the runtime on the target machines if not present:
+
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads

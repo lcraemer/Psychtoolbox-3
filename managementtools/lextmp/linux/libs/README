@@ -1,0 +1,3 @@
+gcc - Use this build unless you are not targeting Alpine Linux or old Linux distributions
+musl - Use this build if you want to target Alpine Linux distribution
+gcc-centos-6 - Use this build if you want to target old Linux distributions like RHEL 6, CentOS 6, Debian 6
